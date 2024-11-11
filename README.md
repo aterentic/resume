@@ -9,6 +9,16 @@
 
 ## Experience
 
+**2021-Present**, Senior Software Engineer at [Avail](https://www.availproject.org/)  
+Working on a modular blockchain with a data availability layer.  
+Mainly contributed to the Light Client development and to the core modules,  
+with a focus on data sampling and reconstruction using KZG commitments and erasure coding,  
+proof verification, Light Client API definition and implementation,  
+and Kademlia DHT implementation and testing and libp2p-based P2P network.  
+Also worked on versioning, CI implementation, end-to-end testing,  
+implementation of the the Sovereign SDK Avail adapter for ZK and optimistic rollups,  
+as well as a WASM implementation of the Light Client.
+
 **2016-2021**, Senior software engineer/tech lead at [Basiq](https://basiq.io/)  
 System design, development and deployment on AWS platform, API design and
 implementation, implementation of continuous deployment process.  
@@ -50,19 +60,6 @@ signing and tiff images manipulation. Implementation and administration
 of subversion CVS. Technologies: C\#, Visual Basic .NET, WCF, NHibernate, NUnit, ASP.NET,
 JavaScript, HTML, CSS. 
 
-### Other
-
-**2012**, Smederevo Museum
-design and development of Drupal web site.
-
-**2005-2007**
-Freelance on a few projects: Web designer at NGO "Klub Ideja", .NET application 
-for wireless provider, and JAVA application for small mushroom production company.
-
-**2003 - 2012**
-Graphic design at Club Kandinsky, Club ATW and NGO 
-"Center of Social Initiatives" in Smederevo.
-
 ## Education
 
 **2014**  
@@ -72,18 +69,12 @@ FP101x: Introduction to Functional Programming (edx.com)
 The High School of Electrical Engineering (computer technology department), 
 Belgrade, Serbia
 
-**1999-2003**  
-Four semesters at Faculty of Electrical Engineering, Belgrade, Serbia
-
-**1995-1999**  
-Electrotechnical School, Smederevo, Serbia
-
 ## Skills
 
 Problem solving oriented person, fast learning of new technologies and principles.  
-**Languages:** Serbian and English.  
-**Programming languages:** Go, JavaScript, Elm, Java, Idris, Haskell, Clojure etc.  
-**Domains:** Cloud computing (AWS), distributed systems, databases, web, CI/CD, testing.  
+**Languages:** English, Serbian.  
+**Programming languages:** Rust, JavaScript, Elm, Go, Idris, Haskell, Clojure, Java, etc.  
+**Domains:** Distributed systems, databases, web, CI/CD, testing, cloud computing (AWS).  
 **Other:** Adobe Photoshop, Adobe Illustrator (graphics), Ableton and Wavelab (sound).
 
 ## Interests
